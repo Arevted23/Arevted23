@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hello there! I'm Hilario Arevalo, an engineer in Communications and Electronics with a Bachelor's degree in Computer Systems. <br>🎓 My passion lies in of technology and innovation, where I thrive on solving complex problems and pushing the boundaries of what's possible.<br>Currently, I'm immersed in the dynamic world of programming, constantly expanding my skill set and knowledge base. <br>🚀 I'm deeply engaged in learning various technologies such as:<br>* Angular<br>* React<br>* PHP<br>* Flutter<br>* React Native<br>among others. <br>Whether it's mastering a new framework or delving into cutting-edge development methodologies, I'm always up for the challenge.<br>As a programmer, I possess an insatiable hunger for acquiring new knowledge and honing my craft. <br>💡 I firmly believe that continuous learning is the key to staying ahead in this ever-evolving field. With each project and endeavor, I strive to not only meet expectations but to exceed them, delivering innovative solutions that make a meaningful impact.🌟
+👋 Hello there! I'm Hilario Arevalo, an engineer in Communications and Electronics with a Bachelor's degree in Computer Systems. <br>
+🎓 My passion lies in of technology and innovation, where I thrive on solving complex problems and pushing the boundaries of what's possible.<br>Currently, <br>
+✨ I'm immersed in the dynamic world of programming, constantly expanding my skill set and knowledge base. <br>
+🚀 I'm deeply engaged in learning various technologies such as:<br>🌐 Angular<br>🌐 React<br>🌐 PHP<br>🌐 Flutter<br>🌐 React Native<br>among others. <br>
+🖱️ Whether it's mastering a new framework or delving into cutting-edge development methodologies, I'm always up for the challenge.<br>
+👨‍💻 As a programmer, I possess an insatiable hunger for acquiring new knowledge and honing my craft. <br>
+💡 I firmly believe that continuous learning is the key to staying ahead in this ever-evolving field. With each project and endeavor, I strive to not only meet expectations but to exceed them, delivering innovative solutions that make a meaningful impact.🌟
 
 
 ## 🌐 Socials:
