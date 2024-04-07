@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hello there! I'm Hilario Arevalo, an engineer in Communications and Electronics with a Bachelor's degree in Computer Systems. <br>
+👋 Hello there! 
+I'm <strong>Hilario Arevalo</strong>, an engineer in Communications and Electronics with a Bachelor's degree in Computer Systems. <br>
 🎓 My passion lies in of technology and innovation, where I thrive on solving complex problems and pushing the boundaries of what's possible.<br>Currently, <br>
 ✨ I'm immersed in the dynamic world of programming, constantly expanding my skill set and knowledge base. <br>
 🚀 I'm deeply engaged in learning various technologies such as:<br>🌐 Angular<br>🌐 React<br>🌐 PHP<br>🌐 Flutter<br>🌐 React Native<br>among others. <br>
