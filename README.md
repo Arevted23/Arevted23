@@ -1,5 +1,5 @@
 # I'm Hilario Arevalo, FRONT END DEVELOPER
-*Software Enginner*, *Web Developer* and *System Analyst** at softtek, with focus in Javascript.
+*Software Enginner*, *Web Developer* and *System Analyst* at softtek, with focus in Javascript.
 Like software enginner work with diferents technolys how:
   <ul>
     <li>Javascript</li>
